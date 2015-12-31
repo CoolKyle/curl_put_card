@@ -2,7 +2,8 @@
 
 int main(void){
 //test
-	printf("TEST&!");
+	int c = 3;
+	printf("TEST&!%d\n");
 	return 0;
 }
 
